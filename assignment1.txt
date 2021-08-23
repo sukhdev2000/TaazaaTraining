@@ -1,0 +1,225 @@
+//Introduction to LOop
+using System;
+using System.Text;
+namespace assignmet1
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+           System.Console.WriteLine("Printing First ten Numbers!!");
+           for(int i=1;i<=10;i++)
+           {
+               System.Console.WriteLine(i);
+           }
+
+
+        }
+    }
+}
+
+
+
+//First Program for checking prime number or not with the help of (for loop)!!
+using System;
+namespace assignmet1
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int n ,count=0;
+            Console.WriteLine("Enter a Number!!");
+            n=Convert.ToInt32(Console.ReadLine());    //return 0 if null or empty
+            for(int i=1;i<=n;i++)
+            {
+                if(n%i==0)
+                {
+                    count++;
+                }
+            }
+            if(count==2)
+            {
+                Console.WriteLine("You entered Prime Number!!");
+            }
+            else
+            {
+                Console.WriteLine("You entered Non Prime Number!!");
+            }
+        }
+    }
+}
+
+//Second Program for checking whether number is palindrome or not with the help of (while loop)
+using System;
+
+namespace assignmet1
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int n,r, sum=0,temp;
+            Console.WriteLine("Enter Number!!");
+            n=Convert.ToInt32(Console.ReadLine());
+            temp=n;
+            while(n>0)
+            {
+                r=n%10;
+                sum=sum*10+r;
+                n=n/10;
+            }
+            n=temp;
+            if(n==sum)
+            {
+                Console.WriteLine("Number is Palindrome!!");
+            }
+            else
+            {
+                Console.WriteLine("Number is Not a Palindrome!!");
+            }
+
+        }
+    }
+}
+
+//Third Program to print numbers from 0 to 9 with do while loop
+
+using System;
+
+namespace assignmet1
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int i=0;
+            do
+            {
+                Console.WriteLine("value of i is"+ i);
+                i++;
+                
+            } while (i<10);
+        }
+    }
+}
+
+//Fourth Program to print values from array with the help of Foreach loop
+using System;
+
+namespace assignmet1
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+       int []array={1,2,3,4,5};
+       foreach (int a  in array)
+       {
+           Console.WriteLine(a);
+       }
+        }
+    }
+}
+
+
+//Fifth program showing basics of string
+using System;
+
+namespace assignmet1
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+           System.Console.WriteLine("Enter You Name!!");
+           string str=Console.ReadLine();
+           System.Console.WriteLine("Welcome "+ str);
+        }
+    }
+}
+
+
+//sixth program showing some important function of strings
+using System;
+
+namespace assignmet1
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            string str="We Are Learning dotnet!!";
+            System.Console.WriteLine(str.ToUpper());
+            System.Console.WriteLine(str.ToLower());
+            System.Console.WriteLine(str.IndexOf("Learning"));
+            System.Console.WriteLine(str.Replace("dotnet","C#"));
+            System.Console.WriteLine(str.Trim());
+            System.Console.WriteLine(str.Insert(16,"Java and "));
+            string number="2000";
+            int num=int.Parse(number); //throw an exception if null or empty
+            System.Console.WriteLine("Number you have entered is "+ num);
+        }
+    }
+}
+
+
+// Seventh Program showing (Immutable String Concept)
+String objects are always immutable, once they created and initialized then cannot be changed on same reference
+using System;
+
+namespace assignmet1
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            string str="Old Value";
+            str="new Value";
+            System.Console.WriteLine("String is "+ str);
+            string str1="My Name is Das sukhdev";
+            string str2="My Name is Das sukhdev";
+            string str3="My Name is"+" "+"Das sukhdev";
+            string str4=new string("My Name is Das sukhdev");
+            System.Console.WriteLine(str4);
+        }
+    }
+}
+
+
+//Eight Program showing Mutable strings with the help of String Builder
+
+using System;
+using System.Text;
+namespace assignmet1
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+          StringBuilder str=new StringBuilder();
+          str.Append("Hey ");
+          str.Append("My name is sukhdev,");
+          str.Append(" Have a great day!!");
+          System.Console.WriteLine(str);
+        }
+    }
+}
+
+//Ninth Program showing use of verbatim String
+
+using System;
+using System.Text;
+namespace assignmet1
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            string str=@"\Das Sukhdev";
+            System.Console.WriteLine("\nSukhdev");
+            System.Console.WriteLine(str);
+
+        }
+    }
+}
