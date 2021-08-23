@@ -1,0 +1,16 @@
+C:\Users\hp\Desktop\TaazaaTraining-2021\TaazaaTrainig-daily notes\day6\adv_training\bin\Debug\net5.0\adv_training.exe
+C:\Users\hp\Desktop\TaazaaTraining-2021\TaazaaTrainig-daily notes\day6\adv_training\bin\Debug\net5.0\adv_training.deps.json
+C:\Users\hp\Desktop\TaazaaTraining-2021\TaazaaTrainig-daily notes\day6\adv_training\bin\Debug\net5.0\adv_training.runtimeconfig.json
+C:\Users\hp\Desktop\TaazaaTraining-2021\TaazaaTrainig-daily notes\day6\adv_training\bin\Debug\net5.0\adv_training.runtimeconfig.dev.json
+C:\Users\hp\Desktop\TaazaaTraining-2021\TaazaaTrainig-daily notes\day6\adv_training\bin\Debug\net5.0\adv_training.dll
+C:\Users\hp\Desktop\TaazaaTraining-2021\TaazaaTrainig-daily notes\day6\adv_training\bin\Debug\net5.0\ref\adv_training.dll
+C:\Users\hp\Desktop\TaazaaTraining-2021\TaazaaTrainig-daily notes\day6\adv_training\bin\Debug\net5.0\adv_training.pdb
+C:\Users\hp\Desktop\TaazaaTraining-2021\TaazaaTrainig-daily notes\day6\adv_training\obj\Debug\net5.0\adv_training.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\TaazaaTraining-2021\TaazaaTrainig-daily notes\day6\adv_training\obj\Debug\net5.0\adv_training.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\TaazaaTraining-2021\TaazaaTrainig-daily notes\day6\adv_training\obj\Debug\net5.0\adv_training.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\TaazaaTraining-2021\TaazaaTrainig-daily notes\day6\adv_training\obj\Debug\net5.0\adv_training.AssemblyInfo.cs
+C:\Users\hp\Desktop\TaazaaTraining-2021\TaazaaTrainig-daily notes\day6\adv_training\obj\Debug\net5.0\adv_training.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\TaazaaTraining-2021\TaazaaTrainig-daily notes\day6\adv_training\obj\Debug\net5.0\adv_training.dll
+C:\Users\hp\Desktop\TaazaaTraining-2021\TaazaaTrainig-daily notes\day6\adv_training\obj\Debug\net5.0\ref\adv_training.dll
+C:\Users\hp\Desktop\TaazaaTraining-2021\TaazaaTrainig-daily notes\day6\adv_training\obj\Debug\net5.0\adv_training.pdb
+C:\Users\hp\Desktop\TaazaaTraining-2021\TaazaaTrainig-daily notes\day6\adv_training\obj\Debug\net5.0\adv_training.genruntimeconfig.cache

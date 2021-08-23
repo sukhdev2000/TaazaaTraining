@@ -1,0 +1,16 @@
+C:\Users\hp\Desktop\TaazaaTraining-2021\TaazaaTrainig-daily notes\day8-2A\bin\Debug\net5.0\day8-2A.exe
+C:\Users\hp\Desktop\TaazaaTraining-2021\TaazaaTrainig-daily notes\day8-2A\bin\Debug\net5.0\day8-2A.deps.json
+C:\Users\hp\Desktop\TaazaaTraining-2021\TaazaaTrainig-daily notes\day8-2A\bin\Debug\net5.0\day8-2A.runtimeconfig.json
+C:\Users\hp\Desktop\TaazaaTraining-2021\TaazaaTrainig-daily notes\day8-2A\bin\Debug\net5.0\day8-2A.runtimeconfig.dev.json
+C:\Users\hp\Desktop\TaazaaTraining-2021\TaazaaTrainig-daily notes\day8-2A\bin\Debug\net5.0\day8-2A.dll
+C:\Users\hp\Desktop\TaazaaTraining-2021\TaazaaTrainig-daily notes\day8-2A\bin\Debug\net5.0\ref\day8-2A.dll
+C:\Users\hp\Desktop\TaazaaTraining-2021\TaazaaTrainig-daily notes\day8-2A\bin\Debug\net5.0\day8-2A.pdb
+C:\Users\hp\Desktop\TaazaaTraining-2021\TaazaaTrainig-daily notes\day8-2A\obj\Debug\net5.0\day8-2A.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\TaazaaTraining-2021\TaazaaTrainig-daily notes\day8-2A\obj\Debug\net5.0\day8-2A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\TaazaaTraining-2021\TaazaaTrainig-daily notes\day8-2A\obj\Debug\net5.0\day8-2A.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\TaazaaTraining-2021\TaazaaTrainig-daily notes\day8-2A\obj\Debug\net5.0\day8-2A.AssemblyInfo.cs
+C:\Users\hp\Desktop\TaazaaTraining-2021\TaazaaTrainig-daily notes\day8-2A\obj\Debug\net5.0\day8-2A.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\TaazaaTraining-2021\TaazaaTrainig-daily notes\day8-2A\obj\Debug\net5.0\day8-2A.dll
+C:\Users\hp\Desktop\TaazaaTraining-2021\TaazaaTrainig-daily notes\day8-2A\obj\Debug\net5.0\ref\day8-2A.dll
+C:\Users\hp\Desktop\TaazaaTraining-2021\TaazaaTrainig-daily notes\day8-2A\obj\Debug\net5.0\day8-2A.pdb
+C:\Users\hp\Desktop\TaazaaTraining-2021\TaazaaTrainig-daily notes\day8-2A\obj\Debug\net5.0\day8-2A.genruntimeconfig.cache

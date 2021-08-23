@@ -1,0 +1,16 @@
+C:\Users\hp\Desktop\TaazaaTraining-2021\TaazaaTrainig-daily notes\day6\miscellaneous\bin\Debug\net5.0\miscellaneous.exe
+C:\Users\hp\Desktop\TaazaaTraining-2021\TaazaaTrainig-daily notes\day6\miscellaneous\bin\Debug\net5.0\miscellaneous.deps.json
+C:\Users\hp\Desktop\TaazaaTraining-2021\TaazaaTrainig-daily notes\day6\miscellaneous\bin\Debug\net5.0\miscellaneous.runtimeconfig.json
+C:\Users\hp\Desktop\TaazaaTraining-2021\TaazaaTrainig-daily notes\day6\miscellaneous\bin\Debug\net5.0\miscellaneous.runtimeconfig.dev.json
+C:\Users\hp\Desktop\TaazaaTraining-2021\TaazaaTrainig-daily notes\day6\miscellaneous\bin\Debug\net5.0\miscellaneous.dll
+C:\Users\hp\Desktop\TaazaaTraining-2021\TaazaaTrainig-daily notes\day6\miscellaneous\bin\Debug\net5.0\ref\miscellaneous.dll
+C:\Users\hp\Desktop\TaazaaTraining-2021\TaazaaTrainig-daily notes\day6\miscellaneous\bin\Debug\net5.0\miscellaneous.pdb
+C:\Users\hp\Desktop\TaazaaTraining-2021\TaazaaTrainig-daily notes\day6\miscellaneous\obj\Debug\net5.0\miscellaneous.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\TaazaaTraining-2021\TaazaaTrainig-daily notes\day6\miscellaneous\obj\Debug\net5.0\miscellaneous.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\TaazaaTraining-2021\TaazaaTrainig-daily notes\day6\miscellaneous\obj\Debug\net5.0\miscellaneous.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\TaazaaTraining-2021\TaazaaTrainig-daily notes\day6\miscellaneous\obj\Debug\net5.0\miscellaneous.AssemblyInfo.cs
+C:\Users\hp\Desktop\TaazaaTraining-2021\TaazaaTrainig-daily notes\day6\miscellaneous\obj\Debug\net5.0\miscellaneous.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\TaazaaTraining-2021\TaazaaTrainig-daily notes\day6\miscellaneous\obj\Debug\net5.0\miscellaneous.dll
+C:\Users\hp\Desktop\TaazaaTraining-2021\TaazaaTrainig-daily notes\day6\miscellaneous\obj\Debug\net5.0\ref\miscellaneous.dll
+C:\Users\hp\Desktop\TaazaaTraining-2021\TaazaaTrainig-daily notes\day6\miscellaneous\obj\Debug\net5.0\miscellaneous.pdb
+C:\Users\hp\Desktop\TaazaaTraining-2021\TaazaaTrainig-daily notes\day6\miscellaneous\obj\Debug\net5.0\miscellaneous.genruntimeconfig.cache
